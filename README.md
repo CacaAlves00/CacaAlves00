@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CacaAlves00
 - 👀 I’m interested in Web & Mobile & Game Development, Linux, books, music and nature.
-- 🌱 I’m currently taking a Computer Science college course at Universidade Tecnológica Federal do Paraná, taking a deep look 
-- into a field of study that never ceases expanding.
+- 🌱 I’m currently taking a Computer Science college course at Universidade Tecnológica Federal do Paraná, taking a deep look into a field of study that never ceases expanding.
 - 📫 How to reach me: cacazinho99@gmail.com.
 
 <!---
